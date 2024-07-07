@@ -49,3 +49,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### Acknowledgments
 Thanks to the Flask and open-source community for their awesome tools and libraries.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
