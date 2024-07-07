@@ -2,6 +2,8 @@
 
 This is a simple web application that includes a welcome section and a stopwatch widget. The app is built using HTML, CSS, JavaScript, and Python (Flask).
 
+![alt text](https://github.com/CheeloHamududu/Stop-Watch/blob/master/stopwatch.png)
+
 ## Features
 
 - Welcome section with a greeting message.
